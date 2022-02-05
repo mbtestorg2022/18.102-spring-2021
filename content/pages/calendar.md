@@ -4,30 +4,321 @@ title: Calendar
 uid: 319004a3-54c4-c472-33e1-003dce093a46
 ---
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Basic Banach Space Theory | &nbsp; |
-| 2 | Bounded Linear Operators | Assignment 1 due |
-| 3 | Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem | &nbsp; |
-| 4 | The Open Mapping Theorem and the Closed Graph Theorem | Assignment 2 due |
-| 5 | Zorn's Lemma and the Hahn-Banach Theorem | &nbsp; |
-| 6 | The Double Dual and the Outer Measure of a Subset of Real Numbers | Assignment 3 due  |
-| 7 | Sigma Algebras | &nbsp; |
-| 8 | Lebesgue Measurable Subsets and Measure | Assignment 4 due |
-| 9 | Lebesgue Measurable Functions | &nbsp; |
-| 10 | Simple Functions | Assignment 5 due |
-| 11 | The Lebesgue Integral of a Nonnegative Function and Convergence Theorems | &nbsp; |
-| &nbsp; | Midterm Exam | Midterm Exam due |
-| 12 | Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence Theorem | &nbsp; |
-| 13 | Lp Space Theory | &nbsp; |
-| 14 | Basic Hilbert Space Theory | Assignment 6 due |
-| 15 | Orthonormal Bases and Fourier Series | &nbsp; |
-| 16 | Fejer's Theorem and Convergence of Fourier Series | Assignment 7 due  |
-| 17 | Minimizers, Orthogonal Complements and the Riesz Representation Theorem | &nbsp; |
-| 18 | The Adjoint of a Bounded Linear Operator on a Hilbert Space | Assignment 8 due |
-| 19 | Compact Subsets of a Hilbert Space and Finite-Rank Operators | &nbsp; |
-| 20 | Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space | Assignment 9 due  |
-| 21 | The Spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint Operators | &nbsp; |
-| 22 | The Spectral Theorem for a Compact Self-Adjoint Operator | Assignment 10 due  |
-| 23 | The Dirichlet Problem on an Interval | &nbsp; |
-| &nbsp; | Final Assignment | Final Assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Banach Space Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Bounded Linear Operators
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Quotient Spaces, the Baire Category Theorem and the Uniform Boundedness Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Open Mapping Theorem and the Closed Graph Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Zorn's Lemma and the Hahn-Banach Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Double Dual and the Outer Measure of a Subset of Real Numbers
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sigma Algebras
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lebesgue Measurable Subsets and Measure
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lebesgue Measurable Functions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Simple Functions
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Lebesgue Integral of a Nonnegative Function and Convergence Theorems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lebesgue Integrable Functions, the Lebesgue Integral and the Dominated Convergence Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lp Space Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Hilbert Space Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Orthonormal Bases and Fourier Series
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Fejer's Theorem and Convergence of Fourier Series
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Minimizers, Orthogonal Complements and the Riesz Representation Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Adjoint of a Bounded Linear Operator on a Hilbert Space
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Compact Subsets of a Hilbert Space and Finite-Rank Operators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Compact Operators and the Spectrum of a Bounded Linear Operator on a Hilbert Space
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+The Spectrum of Self-Adjoint Operators and the Eigenspaces of Compact Self-Adjoint Operators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Spectral Theorem for a Compact Self-Adjoint Operator
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 due 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Dirichlet Problem on an Interval
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f3f68fed-37d7-454c-871a-929d452ffe96
 resourcetype: Image
 title: fejer.PNG
 uid: 36aa89a4-cb53-aec3-e1b3-8ae2924b2c2d

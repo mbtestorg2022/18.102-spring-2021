@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011/), [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013/), or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010/); and [_18.100A Introduction to Analysis_](/courses/18-100a-introduction-to-analysis-fall-2012/), [_18.100B Analysis I_](/courses/18-100b-analysis-i-fall-2010/), _18.100P Real Analysis_, or _18.100Q Real Analysis_; or permission of the instructor.
+[_18.06 Linear Algebra_](/courses/18-06sc-linear-algebra-fall-2011), [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013), or [_18.701 Algebra I_](/courses/18-701-algebra-i-fall-2010); and [_18.100A Introduction to Analysis_](/courses/18-100a-introduction-to-analysis-fall-2012), [_18.100B Analysis I_](/courses/18-100b-analysis-i-fall-2010), _18.100P Real Analysis_, or _18.100Q Real Analysis_; or permission of the instructor.
 
 Description
 -----------
